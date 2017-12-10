@@ -1,0 +1,8 @@
+name: p5-notebook
+channels:
+- conda-forge
+dependencies:
+- python=3
+- pip
+- jupyter
+- numpy
