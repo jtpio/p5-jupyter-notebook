@@ -13,6 +13,14 @@ Here is a short animation of what the animation looks like. Refer to the [notebo
 
 ![Bermuda Triangle Example](./animation.gif)
 
+
+## Run on Binder
+
+You can run the notebook directly on [Binder](https://mybinder.org/v2/gh/jtpio/p5-jupyter-notebook/master?filepath=puzzle.ipynb).
+
+Binder creates a reproducible environment from the `environment.yml` file to ensure all dependencies are installed at startup.
+
+
 ## Run locally
 
 ```
