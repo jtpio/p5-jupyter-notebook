@@ -1,7 +1,9 @@
 name: p5-notebook
 channels:
 - conda-forge
+- damianavila82
 dependencies:
 - python=3
 - jupyter=1.0.0
 - numpy=1.13.3
+- rise==5.1.0
