@@ -11,7 +11,7 @@ The Bermuda Triangle puzzle is used in the notebook as a concrete example to sol
 
 Here is a short animation of what the animation looks like. Refer to the [notebook](./puzzle.ipynb) for more details!
 
-![Bermuda Triangle Example](./animation.gif)
+![Bermuda Triangle Example](./img/animation.gif)
 
 
 ## Run on Binder
