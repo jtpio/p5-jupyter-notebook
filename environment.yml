@@ -1,7 +1,9 @@
 name: p5-notebook
+channels:
+  - conda-forge
 dependencies:
   - python=3
+  - jupyter
   - pip
   - pip:
-    - jupyter-client==5.2.2
     - ipywidgets==7
