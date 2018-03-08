@@ -39,3 +39,11 @@ Launch the notebook:
 ```
 jupyter notebook
 ```
+
+## pyp5?
+
+This notebook is more for the sake of experimenting with p5.js and creating a Jupyter Widget directly in the Jupyter Notebook.
+
+There is however an initiative to create a proper `pyp5` Jupyter Widgets (still early stages though!):
+
+[https://github.com/jtpio/pyp5](https://github.com/jtpio/pyp5)
