@@ -1,7 +1,7 @@
 p5-jupyter-notebook
 ===========
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jtpio/p5-jupyter-notebook/master?filepath=puzzle.ipynb)
+[![Binder](https://img.shields.io/badge/launch-binder-brightgreen.svg)](https://mybinder.org/v2/gh/jtpio/p5-jupyter-notebook/master?filepath=puzzle.ipynb)
 
 Jupyter Notebook to demonstrate how to use [p5.js](https://p5js.org) for custom interactive animations.
 
