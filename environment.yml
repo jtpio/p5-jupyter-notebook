@@ -6,4 +6,4 @@ dependencies:
   - jupyter
   - pip
   - pip:
-    - ipywidgets==7
+    - ipywidgets
