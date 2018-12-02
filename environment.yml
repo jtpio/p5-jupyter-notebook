@@ -5,5 +5,4 @@ dependencies:
   - python=3
   - jupyter
   - pip
-  - pip:
-    - ipywidgets
+  - ipywidgets
