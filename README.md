@@ -44,6 +44,6 @@ jupyter notebook
 
 This notebook is more for the sake of experimenting with p5.js and creating a Jupyter Widget directly in the Jupyter Notebook.
 
-There is however an initiative to create a proper `ipyp5` Jupyter Widgets (still early stages though!):
+**Creating new widgets on the fly in a notebook is really useful for presentations and teaching purposes. However this approach does not work in other environments other than the classic notebook (it does not work in JupyterLab).**
 
-[https://github.com/jtpio/ipyp5](https://github.com/jtpio/ipyp5)
+A better way would be to create a proper `ipyp5` Jupyter widget: [https://github.com/jtpio/ipyp5](https://github.com/jtpio/ipyp5)
