@@ -1,7 +1,19 @@
-p5-jupyter-notebook
-===========
+# p5-jupyter-notebook
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jtpio/p5-jupyter-notebook/master?filepath=puzzle.ipynb)
+
+## Demo
+
+This project was more for the sake of experimenting with p5.js and creating a Jupyter Widget directly in the Jupyter Notebook, and is not maintained anymore.
+
+Creating new widgets on the fly in a notebook is really useful for presentations and teaching purposes. However this approach does not work in other environments other than the classic notebook (it does not work in JupyterLab).
+
+Instead, feel free to check out:
+
+- [https://github.com/jtpio/ipyp5](https://github.com/jtpio/ipyp5): ongoing work to make a proper `ipyp5` Jupyter widget
+- [https://github.com/jtpio/p5-notebook](https://github.com/jtpio/p5-notebook): prototype for a minimal notebook UI for p5.js
+
+---
 
 Jupyter Notebook to demonstrate how to use [p5.js](https://p5js.org) for custom interactive animations.
 
@@ -39,11 +51,3 @@ Launch the notebook:
 ```
 jupyter notebook
 ```
-
-## ipyp5?
-
-This notebook is more for the sake of experimenting with p5.js and creating a Jupyter Widget directly in the Jupyter Notebook.
-
-**Creating new widgets on the fly in a notebook is really useful for presentations and teaching purposes. However this approach does not work in other environments other than the classic notebook (it does not work in JupyterLab).**
-
-A better way would be to create a proper `ipyp5` Jupyter widget: [https://github.com/jtpio/ipyp5](https://github.com/jtpio/ipyp5)
